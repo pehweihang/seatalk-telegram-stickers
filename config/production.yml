@@ -1,0 +1,7 @@
+---
+telegram:
+  api_token: ""
+seatalk:
+  host: "openapi.seatalk.io"
+  app_id: ""
+  app_secret: ""
